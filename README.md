@@ -13,3 +13,5 @@ Include jQuery and the plugin on a page.
  ```<input type="text" data-behaviour="date">```
  
  ##### It have validate only format dd/mm/yyyy future release user can change the format option.
+
+ ##### It will validate date on typing...
